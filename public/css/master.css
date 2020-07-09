@@ -1,0 +1,18 @@
+.side_bar{
+  width: 200px;
+  height: 700px;
+  background-color: grey;
+  margin-right: 20px;
+}
+.chat_main{
+  background-color: red;
+  margin-bottom: 100px;
+}
+.form-control{
+  width:230px;
+
+}
+#btn{
+  margin-left: 15px;
+  margin-right: 15px;
+}
