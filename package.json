@@ -16,6 +16,10 @@
   },
   "engines": {
     "node": "^12.16.2"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://git.heroku.com/akhil-chatting-app.git"
   }
 }
 
